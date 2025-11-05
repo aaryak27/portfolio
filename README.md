@@ -1,4 +1,5 @@
 This is a simple little personal portfolio/website just for fun. It is my very first web dev project so it's definitely a work in progress.
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 <div align="center">
   <a href="https://moonshot.hackclub.com" target="_blank">
